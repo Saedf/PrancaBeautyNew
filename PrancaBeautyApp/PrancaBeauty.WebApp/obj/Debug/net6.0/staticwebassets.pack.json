@@ -1441,6 +1441,62 @@
       "PackagePath": "staticwebassets\\Main\\scss\\rtl\\style.scss"
     },
     {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrancaBeautyNew\\PrancaBeautyApp\\PrancaBeauty.WebApp\\wwwroot\\lib\\leafletJS\\images\\layers-2x.png",
+      "PackagePath": "staticwebassets\\lib\\leafletJS\\images\\layers-2x.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrancaBeautyNew\\PrancaBeautyApp\\PrancaBeauty.WebApp\\wwwroot\\lib\\leafletJS\\images\\layers.png",
+      "PackagePath": "staticwebassets\\lib\\leafletJS\\images\\layers.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrancaBeautyNew\\PrancaBeautyApp\\PrancaBeauty.WebApp\\wwwroot\\lib\\leafletJS\\images\\marker-icon-2x.png",
+      "PackagePath": "staticwebassets\\lib\\leafletJS\\images\\marker-icon-2x.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrancaBeautyNew\\PrancaBeautyApp\\PrancaBeauty.WebApp\\wwwroot\\lib\\leafletJS\\images\\marker-icon.png",
+      "PackagePath": "staticwebassets\\lib\\leafletJS\\images\\marker-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrancaBeautyNew\\PrancaBeautyApp\\PrancaBeauty.WebApp\\wwwroot\\lib\\leafletJS\\images\\marker-shadow.png",
+      "PackagePath": "staticwebassets\\lib\\leafletJS\\images\\marker-shadow.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrancaBeautyNew\\PrancaBeautyApp\\PrancaBeauty.WebApp\\wwwroot\\lib\\leafletJS\\leaflet-src.esm.js",
+      "PackagePath": "staticwebassets\\lib\\leafletJS\\leaflet-src.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrancaBeautyNew\\PrancaBeautyApp\\PrancaBeauty.WebApp\\wwwroot\\lib\\leafletJS\\leaflet-src.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\leafletJS\\leaflet-src.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrancaBeautyNew\\PrancaBeautyApp\\PrancaBeauty.WebApp\\wwwroot\\lib\\leafletJS\\leaflet-src.js",
+      "PackagePath": "staticwebassets\\lib\\leafletJS\\leaflet-src.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrancaBeautyNew\\PrancaBeautyApp\\PrancaBeauty.WebApp\\wwwroot\\lib\\leafletJS\\leaflet-src.js.map",
+      "PackagePath": "staticwebassets\\lib\\leafletJS\\leaflet-src.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrancaBeautyNew\\PrancaBeautyApp\\PrancaBeauty.WebApp\\wwwroot\\lib\\leafletJS\\leaflet.css",
+      "PackagePath": "staticwebassets\\lib\\leafletJS\\leaflet.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrancaBeautyNew\\PrancaBeautyApp\\PrancaBeauty.WebApp\\wwwroot\\lib\\leafletJS\\leaflet.js",
+      "PackagePath": "staticwebassets\\lib\\leafletJS\\leaflet.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrancaBeautyNew\\PrancaBeautyApp\\PrancaBeauty.WebApp\\wwwroot\\lib\\leafletJS\\leaflet.js.map",
+      "PackagePath": "staticwebassets\\lib\\leafletJS\\leaflet.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrancaBeautyNew\\PrancaBeautyApp\\PrancaBeauty.WebApp\\wwwroot\\lib\\leafletJS\\leaflet.min.css",
+      "PackagePath": "staticwebassets\\lib\\leafletJS\\leaflet.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\PrancaBeautyNew\\PrancaBeautyApp\\PrancaBeauty.WebApp\\wwwroot\\lib\\leafletJS\\leaflet.min.js",
+      "PackagePath": "staticwebassets\\lib\\leafletJS\\leaflet.min.js"
+    },
+    {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PrancaBeauty.WebApp.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
